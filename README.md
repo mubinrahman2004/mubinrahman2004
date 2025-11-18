@@ -1,10 +1,12 @@
-## হাই, আমি মুবিনুর রহমান! 👋
+# 👋 Hi, I'm **Mubinur Rahman**
 
-আমি একজন Full Stack Web Developer এবং একজন শেখার আগ্রহী শিক্ষার্থী। আমি ওয়েব অ্যাপ্লিকেশন, ফ্রন্টএন্ড ডিজাইন এবং ব্যাকএন্ড লজিক নিয়ে কাজ করতে ভালোবাসি। আমি সবসময় নতুন প্রযুক্তি শেখার চেষ্টা করি।
+### 🚀 Full Stack Web Developer | Learner | Problem Solver
+
+I love crafting modern web applications with clean UI, efficient backend logic, and meaningful user experiences. Passionate about learning new technologies, improving myself every day, and building things that matter.
 
 ---
 
-### 💻 Tech Stack
+## 💻 **Tech Stack**
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,28 +19,41 @@
 
 ---
 
-### 🌱 আমি বর্তমানে শিখছি:
-- TypeScript ⚡
-- Next.js 🚀
-- Tailwind CSS 🌈
+## 🌱 **Currently Learning**
+
+* ⚡ TypeScript
+* 🚀 Next.js
+* 🌈 Tailwind CSS
 
 ---
 
-### 📈 GitHub স্ট্যাটস
+## 📊 **GitHub Stats**
 
-![Mubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubinrahman2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubinrahman2004&layout=compact&theme=radical)
-
----
-
-### 🤝 Connect with me!
-
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubin@example.com)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=mubinrahman2004&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubinrahman2004&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### ⚡ Fun Fact:
-> আমি কফি ছাড়া কোড করতে পারি না ☕, আর সবসময় নতুন কিছু শিখতে ভালোবাসি।
+## 🔗 **Connect with Me**
 
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mubin@example.com)
+
+---
+
+## ⚡ **Fun Fact**
+
+> ☕ কফি ছাড়া কোড করা অসম্ভব — আর আমি সবসময় নতুন কিছু শিখতে ভালোবাসি!
+
+---
+
+### 🎨 Bonus: Profile Visitors Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=mubinrahman2004\&color=blueviolet)
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
